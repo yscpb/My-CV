@@ -1,0 +1,172 @@
+/* 公共部分begin */
+.w {
+    position: relative;
+    top: 30px;
+    width: 900px;
+    height: 1200px;
+    margin: 0 auto;
+    margin-bottom: 30px;
+}
+.e3 {
+    background-color: #e3e5e7;
+}
+.d6 {
+    background-color: #5d6a8a;
+}
+
+.fl {
+    float: left;
+}
+.fr {
+    float: right;
+}
+
+.clear {
+    clear: both;
+}
+
+.colorblk {
+    width: 20px;
+    height: 60px;
+    background-color: #5d6a8a;
+    float: left;
+}
+h1 {
+    color: #5d6a8a !important;
+    font-size: 20px !important;
+    padding-bottom: 10px !important;
+}
+.line {
+    width: 800px;
+    height: 2px;
+    background-color: #5d6a8a;
+    margin: 0 auto;
+}
+/* 加宽行距 */
+.addlh {
+    line-height: 25px;
+}
+/* 公共部分over */
+
+/* title部分begin */
+.title {
+    margin: 0 auto;
+    width: 222px;
+    height: 45px;
+}
+.title .l {
+    width: 15px;
+    height: 45px;
+}
+.m {
+    width: 180px;
+    height: 45px;
+    background-color: #5d6a8a;
+}
+.m p {
+    font:normal bold 20px/45px arial,黑体;
+    color: #fff;
+}
+/* title部分over */
+
+/* personal部分begin */
+.personal {
+    width: 800px;
+    height: 200px;
+    margin: 0 auto;
+    padding-top: 25px;
+    /*background-color: red;*//*区域测试*/
+}
+.photograph {
+    
+}
+.name {
+    position: relative;
+    left: 30px;
+    width: 500px;
+    height: 30px;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    margin-right: 20px;
+    
+}
+.expectation {
+    position: relative;
+    left: 30px;
+    width: 500px;
+    height: 30px;
+    color: #808080;
+    font-size: 18px;
+    margin-right: 20px;
+    margin-top: 10px;
+}
+.ema:hover {
+    color: blue;
+}
+.information ul {
+    position: relative;
+    left: 30px;
+}
+.information ul:nth-child(1) {
+    margin-top: 20px;
+}
+.information ul:nth-child(2) {
+    margin-top: 19px;
+}
+.information li:nth-of-type(2) {
+    position: relative;
+    left: 30px;
+}
+/* personal部分over */
+/* 教育背景部分begin */
+.firstpara {
+    width: 800px;
+    height: 120px;
+    margin: 0 auto;
+}
+.firstpara p {
+    margin-top: 15px;
+    font-weight: 100;
+}
+/* 教育背景部分over */
+/* 工作经验begin */
+.secondpara {
+    width: 800px;
+    height: 230px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.secondpara p {
+    margin-top: 15px;
+    font-weight: 100;
+}
+/* 工作经验over */
+/* 技能掌握begin */
+.thirdpara {
+    width: 800px;
+    height: 260px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.thirdpara ul li {
+    position: relative;
+    left: 16px;
+    list-style-type: disc;
+    font-weight: 100;
+    line-height: 25px;
+}
+/* 技能掌握over */
+/* 想说的话begin */
+.fourthpara {
+    width: 800px;
+    height: 200px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+.fourthpara p {
+    margin-top: 15px;
+    font-weight: 100;
+    text-indent: 30px;
+}
+/* 想说的话over */
